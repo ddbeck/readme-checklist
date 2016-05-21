@@ -28,7 +28,7 @@ useful to treat the checklist as a *DO-CONFIRM* checklist, confirming that your
 README matches the elements of the checklist after you've finished writing.
 
 With a few exceptions, the checklist is agnostic about what order things appear
-in your README or even what kind of project your documenting. Your README may
+in your README or even what kind of project you're documenting. Your README may
 cover other topics not covered by this checklist; the checklist covers only
 those topics I found to be essential for README files.
 
