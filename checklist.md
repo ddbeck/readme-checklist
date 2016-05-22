@@ -45,6 +45,9 @@ See [README.md](README.md) to learn how to use this checklist.
   > `One day I was _____. I tried to _____ but _____. Instead, I
   made <PROJECT NAME> to _____.`
 
+  Or you can try inverting the description, describing what your project is
+  *not* good for.
+
   Other tips:
 
   * Write to your reader in the second person (you)
