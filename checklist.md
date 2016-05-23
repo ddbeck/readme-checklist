@@ -73,7 +73,7 @@ See [README.md](README.md) to learn how to use this checklist.
     > attribution under the terms of the MIT license. See the `LICENSE` file
     > for details.
 
-    For inspriation for talking about licenses, see the Creative Commons
+    For inspiration for talking about licenses, see the Creative Commons
     human-readable license summaries, such as
     [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
