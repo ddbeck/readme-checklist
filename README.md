@@ -1,4 +1,4 @@
-# [README checklist](https://github.com/ddbeck/readme_checklist)
+# [README checklist](https://github.com/ddbeck/readme-checklist)
 
 by [Daniel D. Beck](https://twitter.com/ddbeck)
 
