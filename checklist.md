@@ -117,7 +117,7 @@ See [README.md](README.md) to learn how to use this checklist.
 
   No matter how your project runs, however, stop once the project works once.
   Extended usage instructions belong in dedicated documentation files, not
-  your readme.
+  your README.
 
 * **Test your install and setup steps.**
 
@@ -129,7 +129,7 @@ See [README.md](README.md) to learn how to use this checklist.
 
 * **Tell your audience where to go for more project documentation.**
 
-  Descirbe any additional documentation and where to find it.
+  Describe any additional documentation and where to find it.
 
   This may include your project's:
 
