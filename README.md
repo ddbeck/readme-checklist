@@ -9,6 +9,9 @@ use, and engage with your project. Unlike README templates, this checklist
 helps you write the most important things first, not only what appears first in
 the file. You can use the checklist for both closed- and open-source projects.
 
+For more about how this checklist was created and its use, see the talk I gave
+at [Write the Docs NA 2016](https:www.writethedocs.org/conf/na/2016/), *[Write the Readable README](https://www.youtube.com/watch?v=2dAK42B7qtw)*.
+
 You are free to copy, modify, and distribute this checklist, even for
 commercial purposes, without asking for permission. Please adapt this
 checklist for your own use. See
