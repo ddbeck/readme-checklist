@@ -181,3 +181,5 @@ See [README.md](README.md) to learn how to use this checklist.
   `CHANGELOG` or `RELEASES` file and replaced with a link to the new file.
 
 * **Set a reminder to review your README and this checklist in a few weeks**.
+
+* **Tell that  [ddbeck](https://github.com/ddbeck/) you used this checklist.** You can [tweet at him](https://twitter.com/ddbeck/) or open an issue on [ddbeck/readme-checklist](https://github.com/ddbeck/readme-checklist/issues).
