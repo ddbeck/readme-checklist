@@ -20,7 +20,7 @@ See [README.md](README.md) to learn how to use this checklist.
   (such as repository or homepage URL).
 
 * Under the project name, **clearly identify the owner or author of the
-  project** (e.g., "By Author McAuthorface" or "Copyright Owner Name 2017").
+  project** (e.g., "By Author McAuthorface" or "Copyright Owner Name 2018").
 
 
 ## Help the reader evaluate the project
