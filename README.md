@@ -25,7 +25,7 @@ View the latest version of the checklist at:
 
 https://github.com/ddbeck/readme-checklist/blob/master/checklist.md
 
-This checklist a *READ-DO* checklist. If you're starting a new README file,
+This checklist is a *READ-DO* checklist. If you're starting a new README file,
 follow the checklist like a recipe, reading each step and completing it, in
 order. Alternatively, if you've already started a README file, you may find it
 useful to treat the checklist as a *DO-CONFIRM* checklist, confirming that your
