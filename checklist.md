@@ -137,8 +137,8 @@ See [README.md](README.md) to learn how to use this checklist.
   * Documentation files
   * Man page
   * Help command(s)
-  * top-level README companion files, such as `LICENSE`, `CONTRIBUTING`,
-    `CODE_OF_CONDUCT`, `AUTHORS`, `CHANGELOG`, and `BUGS`.
+  * Top-level README companion files, such as `LICENSE`, `CONTRIBUTING`,
+    `CODE_OF_CONDUCT`, `AUTHORS`, `CHANGELOG`, and `BUGS`
 
   It's not enough to link to documents; briefly describe them too.
 
