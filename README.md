@@ -23,7 +23,7 @@ checklist for your own use. See
 
 View the latest version of the checklist at:
 
-https://github.com/ddbeck/readme-checklist/blob/master/checklist.md
+https://github.com/ddbeck/readme-checklist/blob/main/checklist.md
 
 This checklist is a *READ-DO* checklist. If you're starting a new README file,
 follow the checklist like a recipe, reading each step and completing it, in
